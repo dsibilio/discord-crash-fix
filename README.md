@@ -1,7 +1,7 @@
 # Restore Discord on crash
-![test](https://i.imgur.com/PRwEWSo.png)
+![test](https://i.imgur.com/WBNM2py.png)
 
-This message might be all too common for Discord users on Linux: `We're sorry, it looks like Discord crashed. If you'd like...`
+This message might be all too common for Discord users on Linux: `Oops! We're sorry, it looks like Discord crashed. If you'd like to help resolve this issue, please send a report.`
 
 In absence of an actual fix, this repository serves as a workaround to restart Discord automatically as soon as it crashes.
 
